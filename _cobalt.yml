@@ -1,7 +1,7 @@
 
 site:
-  title: cobalt blog
-  description: Blog Posts Go Here
-  base_url: http://example.com
+  title: Haml-rs Rust based Haml Parser
+  description: Homepage for the Haml-rs Rust Haml parser
+  base_url: http://haml.rs
 posts:
   rss: rss.xml
